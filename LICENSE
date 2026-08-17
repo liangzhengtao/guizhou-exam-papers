@@ -1,21 +1,26 @@
-MIT License
+# 版权声明
 
-Copyright (c) 2025 Guizhou Exam Papers Contributors
+## 原创内容
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本仓库中的以下内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议授权：
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- `备考指南/` — 所有备考指南文档
+- `知识总结/` — 所有知识总结和公式文档
+- `README.md` — 项目说明文档
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+您可以自由分享、改编这些内容，但必须：
+- 署名（注明来自本仓库）
+- 非商业用途
+- 相同方式共享
+
+## 试卷资料
+
+本仓库中的试卷 PDF 文件来源于公开渠道收集的模拟考试资料，版权归原出题单位所有。
+
+这些资料仅供学习参考使用，不得用于商业用途。
+
+如果您是版权所有者并希望移除相关内容，请提交 Issue，我们会立即处理。
+
+## 联系方式
+
+如有版权问题，请通过 GitHub Issues 联系我们。
