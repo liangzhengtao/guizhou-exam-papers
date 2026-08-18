@@ -1,16 +1,8 @@
-<div align="center">
-
-[English](#english) | [中文](#中文)
-
-</div>
-
----
-
-<a name="english"></a>
+[中文版](README.zh.md)
 
 <div align="center">
 
-# 📚 Guizhou Exam Papers Collection
+# Guizhou Exam Papers Collection
 
 **Free collection of Guizhou/Guangxi high school mock exam papers and study guides for college entrance exam preparation**
 
@@ -24,220 +16,38 @@
 
 | Category | Content |
 |----------|---------|
-| 📄 Exam Papers | 17 papers (34 PDF files) across Physics, Math, Chemistry, and English |
-| 📖 Study Guides | Subject-by-subject preparation guides with key topics and problem-solving techniques |
-| 📋 Formula Sheets | Quick-reference sheets for Physics formulas, Math formulas, and Chemistry equations |
+| Exam Papers | 17 papers (34 PDF files) across Physics, Math, Chemistry, and English |
+| Study Guides | Subject-by-subject preparation guides with key topics and problem-solving techniques |
+| Formula Sheets | Quick-reference sheets for Physics formulas, Math formulas, and Chemistry equations |
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| 📄 Total papers | **17** (34 PDF files, continuously updated) |
-| 📚 Subjects | **4** — Physics, Math, Chemistry, English |
-| 📅 Year range | **2022 — 2026** |
-| 🎓 Levels | Grade 12 mock exams (1st/2nd/3rd mock) + Grade 9 middle school exam papers |
-| 🌍 Regions | Guizhou (Guiyang), Guangxi (Guilin / Hechi) |
+| Total papers | **17** (34 PDF files, continuously updated) |
+| Subjects | **4** — Physics, Math, Chemistry, English |
+| Year range | **2022 — 2026** |
+| Levels | Grade 12 mock exams (1st/2nd/3rd mock) + Grade 9 middle school exam papers |
+| Regions | Guizhou (Guiyang), Guangxi (Guilin / Hechi) |
 
 ## How to Use
 
 1. Browse the paper tables below (organized by subject)
 2. Click a paper link to download the PDF
 3. Click the answer link to check your work
-4. Check the [备考指南](备考指南/) (Study Guides) and [知识总结](知识总结/) (Formula Sheets) for review
+4. Check the Study Guides and Formula Sheets for review
 
 > **Note:** Content is primarily in Chinese. This collection is designed for Chinese students preparing for the Gaokao (college entrance exam) and Zhongkao (middle school exam).
 
----
+## Contributing
 
-<div align="center">
-
-**[⬆ Back to top](#english)**
-
-</div>
-
----
-
-<a name="中文"></a>
-
-<div align="center">
-
-# 📚 贵州高考真题库 — Guizhou Exam Papers
-
-**贵州、广西高三模拟试卷 + 初三中考真题，免费开源，助力高考备考**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Papers](https://img.shields.io/badge/试卷-17份-green.svg)](#-试卷总览)
-[![Subjects](https://img.shields.io/badge/科目-4科-orange.svg)](#-试卷总览)
-[![Years](https://img.shields.io/badge/年份-2024--2026-purple.svg)](#-试卷总览)
-
-> 🎯 **我们的目标：** 让每一位贵州、广西的高三和初三学生都能免费获取高质量的模拟试卷和真题，高效备考！
-
-</div>
-
----
-
-## 📖 目录导航
-
-| 快速跳转 | 说明 |
-|---------|------|
-| [⚡ 物理试卷](#-物理试卷) | 高三模拟（贵州 + 广西） |
-| [📐 数学试卷](#-数学试卷) | 高三模拟 |
-| [🧪 化学试卷](#-化学试卷) | 高三模拟 |
-| [📝 英语试卷](#-英语试卷) | 初三中考真题 + 模拟 |
-| [📖 备考指南](备考指南/) | 物理·数学·化学·英语备考攻略 |
-| [📋 知识总结](知识总结/) | 公式大全·方程式速查 |
-| [💡 备考建议](#-备考建议) | 高效学习方法与时间管理 |
-
----
-
-## ⚡ 物理试卷
-
-### 高三模拟卷（贵州）
-
-| 年份 | 类型 | 试卷 | 答案 |
-|------|------|------|------|
-| 2025 | 高三一模 | [物理试卷](高三/物理/2025年贵州贵阳高三一模物理试卷.pdf) | [答案](高三/物理/2025年贵州贵阳高三一模物理试卷（答案）.pdf) |
-| 2025 | 高三三模（七校联考） | [物理试卷](高三/物理/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）.pdf) | [答案](高三/物理/2025年贵州贵阳高三三模物理试卷（七校 下学期联考）（答案）.pdf) |
-| 2025 | 适应性考试（一） | [物理试卷](高三/物理/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）.pdf) | [答案](高三/物理/2025年贵州贵阳合格性考试物理试卷(高三下学期 适应性考试 一）（答案）.pdf) |
-| 2025 | 西南名校联盟联考（一） | [物理试卷](高三/物理/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟"3+3+3"高考备考诊断性联考（一））.pdf) | [答案](高三/物理/2025年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟物理试卷（西南名校联盟"3+3+3"高考备考诊断性联考（一））（答案）.pdf) |
-| 2024 | 高三一模 | [物理试卷](高三/物理/2024年贵州贵阳高三一模物理试卷（适应性）.pdf) | [答案](高三/物理/2024年贵州贵阳高三一模物理试卷（适应性）答案.pdf) |
-| 2024 | 高三一模（贵阳一中） | [物理试卷](高三/物理/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷.pdf) | [答案](高三/物理/2024年贵州贵阳观山湖区贵阳市第一中学高三一模物理试卷（答案）.pdf) |
-
-### 高三模拟卷（广西）
-
-| 年份 | 类型 | 试卷 | 答案 |
-|------|------|------|------|
-| 2025 | 高三一模（全区） | [物理试卷](高三/物理/2025年广西高三一模物理试卷.pdf) | [答案](高三/物理/2025年广西高三一模物理试卷（答案）.pdf) |
-| 2025 | 高三一模（桂林·跨市联合） | [物理试卷](高三/物理/2025年广西桂林高三一模物理试卷（第一次跨市联合）.pdf) | [答案](高三/物理/2025年广西桂林高三一模物理试卷（第一次跨市联合）（答案）.pdf) |
-| 2025 | 高三一模（河池·八校协作体） | [物理试卷](高三/物理/2025年广西河池高三一模物理试卷（八校协作体）.pdf) | [答案](高三/物理/2025年广西河池高三一模物理试卷（八校协作体）（答案）.pdf) |
-
-### 高一月考
-
-| 年份 | 类型 | 试卷 | 答案 |
-|------|------|------|------|
-| 2024~2025 | 高一物理月考（贵阳一中） | [物理试卷](高三/物理/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷.pdf) | [模拟](高三/物理/2024~2025学年5月贵州贵阳观山湖区贵阳市第一中学高一下学期月考物理试卷（模拟）.pdf) |
-
----
-
-## 📐 数学试卷
-
-### 高三模拟卷
-
-| 年份 | 类型 | 试卷 | 答案 |
-|------|------|------|------|
-| 2026 | 高三一模（贵阳一中） | [数学试卷](高三/数学/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷.pdf) | [答案](高三/数学/2026年贵州贵阳观山湖区贵阳市第一中学高三一模数学试卷（答案版）.pdf) |
-| 2026 | 高考模拟（贵阳一中） | [数学试卷](高三/数学/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷.pdf) | [答案](高三/数学/2026年贵州贵阳观山湖区贵阳市第一中学高三上学期高考模拟数学试卷（答案）.pdf) |
-
----
-
-## 🧪 化学试卷
-
-### 高三模拟卷
-
-| 年份 | 类型 | 试卷 | 答案 |
-|------|------|------|------|
-| 2025 | 高三二模 | [化学试卷](高三/化学/2025年贵州贵阳高三二模化学试卷.pdf) | [答案](高三/化学/2025年贵州贵阳高三二模化学试卷 答案版.pdf) |
-
----
-
-## 📝 英语试卷
-
-### 初三中考
-
-| 年份 | 类型 | 试卷 | 答案/解析 |
-|------|------|------|----------|
-| 2025 | 初三中考一模 | [英语试卷](初三/英语/2025年贵州贵阳初三中考一模英语试卷.pdf) | [解析](初三/英语/2025年贵州贵阳初三中考一模英语试卷（解析）.pdf) |
-| 2025 | 初三中考一模（贵安附中） | [英语试卷](初三/英语/2025年贵州贵阳初三中考一模英语试卷（贵州师范大学贵安新区附属初级中学）.pdf) | [答案](初三/英语/2025年贵州贵阳初三中考一模英语试卷（贵州师范大学贵安新区附属初级中学）（答案）.pdf) |
-| 2025 | 初三中考二模（南明区） | [英语试卷](初三/英语/2025年贵州贵阳南明区初三中考二模英语试卷.pdf) | [答案](初三/英语/2025年贵州贵阳南明区初三中考二模英语试卷（答案）.pdf) |
-| 2024~2025 | 初三月考（贵阳二十一中·教育集团） | [英语试卷](初三/英语/2024~2025学年10月贵州贵阳南明区贵阳市第二十一中学初三上学期月考英语试卷（教育集团）.pdf) | [答案](初三/英语/2024~2025学年10月贵州贵阳南明区贵阳市第二十一中学初三上学期月考英语试卷（教育集团）（答案）.pdf) |
-
----
-
-## 📊 数据统计
-
-| 指标 | 数据 |
-|------|------|
-| 📄 试卷总数 | **17 份**（34 个 PDF 文件，持续更新中） |
-| 📚 科目数量 | **4 科**（物理、数学、化学、英语） |
-| 📅 年份跨度 | **2024 — 2026** |
-| 🎓 覆盖阶段 | 高三模拟 + 一模/二模/三模 + 中考真题 |
-| 🌍 覆盖地区 | 贵州贵阳、广西桂林/河池 |
-| 📝 备考指南 | 4 份（物理·数学·化学·英语） |
-| 📋 知识总结 | 3 份（公式大全·方程式大全） |
-
----
-
-## 📖 备考资料
-
-除试卷外，本仓库还精心准备了备考指南和知识总结，帮你高效复习：
-
-| 资料 | 说明 | 链接 |
-|------|------|------|
-| 🔬 物理备考指南 | 核心考点 + 解题技巧 + 易错点 | [查看](备考指南/物理备考指南.md) |
-| 📐 数学备考指南 | 核心考点 + 解题模板 + 选择题技巧 | [查看](备考指南/数学备考指南.md) |
-| 🧪 化学备考指南 | 核心考点 + 方程式 + 实验答题模板 | [查看](备考指南/化学备考指南.md) |
-| 📝 英语备考指南 | 核心语法 + 阅读技巧 + 作文模板 | [查看](备考指南/英语备考指南.md) |
-| 📋 物理公式大全 | 力学·电磁学·热学·光学公式速查 | [查看](知识总结/物理公式大全.md) |
-| 📋 数学公式大全 | 函数·三角·数列·导数·解析几何公式 | [查看](知识总结/数学公式大全.md) |
-| 📋 化学方程式大全 | 无机·有机·离子·热化学方程式 | [查看](知识总结/化学方程式大全.md) |
-
----
-
-## 💡 备考建议
-
-### 🎯 高三备考（高考）
-
-1. **制定计划** — 根据自己的薄弱科目，合理分配每天的学习时间
-2. **真题为王** — 先做近3年高考真题，再做模拟卷查漏补缺
-3. **错题本** — 每次做完试卷，把错题整理到错题本，定期复习
-4. **限时训练** — 严格按照考试时间做题，培养时间管理能力
-5. **回归课本** — 考前一个月回归课本，巩固基础知识
-
-### 🎯 初三备考（中考）
-
-1. **夯实基础** — 中考70%是基础题，确保基础分不丢
-2. **专题突破** — 针对自己的薄弱专题进行专项训练
-3. **规范答题** — 注意答题格式和书写规范，减少不必要的失分
-4. **心态调整** — 保持平常心，适度紧张有助于发挥
-
-### ⏰ 时间分配建议（高考理综）
-
-| 科目 | 建议时间 | 总分 |
-|------|---------|------|
-| 物理 | 55 分钟 | 110 分 |
-| 化学 | 50 分钟 | 100 分 |
-| 生物 | 35 分钟 | 90 分 |
-| 检查 | 10 分钟 | — |
-
----
-
-## 🤝 贡献
-
-欢迎提交 PR 补充试卷！请按照以下格式命名文件：
+We welcome PRs to add exam papers! Please follow the naming convention:
 
 ```
-{年级}/{科目}/{年份}年{地区}{类型}{科目}试卷.pdf
-{年级}/{科目}/{年份}年{地区}{类型}{科目}试卷（答案）.pdf
+{grade}/{subject}/{year}年{region}{type}{subject}试卷.pdf
+{grade}/{subject}/{year}年{region}{type}{subject}试卷（答案）.pdf
 ```
 
-例如：
-- `高三/物理/2025年贵州贵阳高三一模物理试卷.pdf`
-- `高三/物理/2025年贵州贵阳高三一模物理试卷（答案）.pdf`
+## License
 
----
-
-## 📜 许可证
-
-本项目采用 [MIT 许可证](LICENSE) 开源。
-
----
-
-<div align="center">
-
-**如果对你有帮助，请给一个 ⭐**
-
-**[⬆ 回到顶部](#中文)**
-
-*加油，未来可期！* 🚀
-
-</div>
+This project is licensed under the [MIT License](LICENSE).
